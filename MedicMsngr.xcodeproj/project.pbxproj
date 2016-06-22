@@ -18,19 +18,19 @@
 		955F69891D175FAC0026E633 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955F69881D175FAB0026E633 /* Profile.swift */; };
 		955F698B1D1802B60026E633 /* ChatOverview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955F698A1D1802B50026E633 /* ChatOverview.swift */; };
 		955F698F1D180C940026E633 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955F698E1D180C940026E633 /* TableViewCell.swift */; };
-		959618C41D19BAC9002AA970 /* MedicAppIcon-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 959618C31D19BAC9002AA970 /* MedicAppIcon-2.png */; };
-		959618CB1D19C47D002AA970 /* Asia-man.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618C51D19C47D002AA970 /* Asia-man.jpg */; };
-		959618CC1D19C47D002AA970 /* India-woman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618C61D19C47D002AA970 /* India-woman.jpg */; };
-		959618CD1D19C47D002AA970 /* man.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618C71D19C47D002AA970 /* man.jpg */; };
-		959618CE1D19C47D002AA970 /* man2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618C81D19C47D002AA970 /* man2.jpg */; };
-		959618CF1D19C47D002AA970 /* man3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618C91D19C47D002AA970 /* man3.jpg */; };
-		959618D01D19C47D002AA970 /* woman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618CA1D19C47D002AA970 /* woman.jpg */; };
-		959618D21D19C493002AA970 /* blankProfile.png in Resources */ = {isa = PBXBuildFile; fileRef = 959618D11D19C493002AA970 /* blankProfile.png */; };
-		959618D41D19E01D002AA970 /* circle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618D31D19E01D002AA970 /* circle.jpg */; };
 		959618D61D19E526002AA970 /* messaging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959618D51D19E526002AA970 /* messaging.swift */; };
 		959618DA1D1A0E31002AA970 /* TouchID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959618D91D1A0E31002AA970 /* TouchID.swift */; };
 		959618E61D1AFC2F002AA970 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959618E51D1AFC2F002AA970 /* TableViewController.swift */; };
 		959618E81D1B0DAC002AA970 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959618E71D1B0DAC002AA970 /* UserProfile.swift */; };
+		959618EE1D1B3E24002AA970 /* Asia-man.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618E91D1B3E24002AA970 /* Asia-man.jpg */; };
+		959618EF1D1B3E24002AA970 /* circle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618EA1D1B3E24002AA970 /* circle.jpg */; };
+		959618F01D1B3E24002AA970 /* India-woman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618EB1D1B3E24002AA970 /* India-woman.jpg */; };
+		959618F11D1B3E24002AA970 /* man.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618EC1D1B3E24002AA970 /* man.jpg */; };
+		959618F21D1B3E24002AA970 /* man2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618ED1D1B3E24002AA970 /* man2.jpg */; };
+		959618F41D1B3E2D002AA970 /* blankProfile.png in Resources */ = {isa = PBXBuildFile; fileRef = 959618F31D1B3E2D002AA970 /* blankProfile.png */; };
+		959618F71D1B3E36002AA970 /* man3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618F51D1B3E36002AA970 /* man3.jpg */; };
+		959618F81D1B3E36002AA970 /* MedicAppIcon-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 959618F61D1B3E36002AA970 /* MedicAppIcon-2.png */; };
+		959618FA1D1B3E3C002AA970 /* woman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 959618F91D1B3E3C002AA970 /* woman.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,19 +47,19 @@
 		955F69881D175FAB0026E633 /* Profile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		955F698A1D1802B50026E633 /* ChatOverview.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatOverview.swift; sourceTree = "<group>"; };
 		955F698E1D180C940026E633 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
-		959618C31D19BAC9002AA970 /* MedicAppIcon-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "MedicAppIcon-2.png"; path = "../../MedicAppIcon-2.png"; sourceTree = "<group>"; };
-		959618C51D19C47D002AA970 /* Asia-man.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Asia-man.jpg"; path = "../../Asia-man.jpg"; sourceTree = "<group>"; };
-		959618C61D19C47D002AA970 /* India-woman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "India-woman.jpg"; path = "../../India-woman.jpg"; sourceTree = "<group>"; };
-		959618C71D19C47D002AA970 /* man.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = man.jpg; path = ../../man.jpg; sourceTree = "<group>"; };
-		959618C81D19C47D002AA970 /* man2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = man2.jpg; path = ../../man2.jpg; sourceTree = "<group>"; };
-		959618C91D19C47D002AA970 /* man3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = man3.jpg; path = ../../man3.jpg; sourceTree = "<group>"; };
-		959618CA1D19C47D002AA970 /* woman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = woman.jpg; path = ../../woman.jpg; sourceTree = "<group>"; };
-		959618D11D19C493002AA970 /* blankProfile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blankProfile.png; path = ../../blankProfile.png; sourceTree = "<group>"; };
-		959618D31D19E01D002AA970 /* circle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = circle.jpg; path = ../../circle.jpg; sourceTree = "<group>"; };
 		959618D51D19E526002AA970 /* messaging.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = messaging.swift; sourceTree = "<group>"; };
 		959618D91D1A0E31002AA970 /* TouchID.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TouchID.swift; sourceTree = "<group>"; };
 		959618E51D1AFC2F002AA970 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		959618E71D1B0DAC002AA970 /* UserProfile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		959618E91D1B3E24002AA970 /* Asia-man.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Asia-man.jpg"; sourceTree = "<group>"; };
+		959618EA1D1B3E24002AA970 /* circle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = circle.jpg; sourceTree = "<group>"; };
+		959618EB1D1B3E24002AA970 /* India-woman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "India-woman.jpg"; sourceTree = "<group>"; };
+		959618EC1D1B3E24002AA970 /* man.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = man.jpg; sourceTree = "<group>"; };
+		959618ED1D1B3E24002AA970 /* man2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = man2.jpg; sourceTree = "<group>"; };
+		959618F31D1B3E2D002AA970 /* blankProfile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blankProfile.png; path = MedicMessenger/blankProfile.png; sourceTree = "<group>"; };
+		959618F51D1B3E36002AA970 /* man3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = man3.jpg; path = MedicMessenger/man3.jpg; sourceTree = "<group>"; };
+		959618F61D1B3E36002AA970 /* MedicAppIcon-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "MedicAppIcon-2.png"; path = "MedicMessenger/MedicAppIcon-2.png"; sourceTree = "<group>"; };
+		959618F91D1B3E3C002AA970 /* woman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = woman.jpg; path = MedicMessenger/woman.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,15 +76,15 @@
 		955F69611D14C2580026E633 = {
 			isa = PBXGroup;
 			children = (
-				959618D11D19C493002AA970 /* blankProfile.png */,
-				959618C51D19C47D002AA970 /* Asia-man.jpg */,
-				959618C61D19C47D002AA970 /* India-woman.jpg */,
-				959618C71D19C47D002AA970 /* man.jpg */,
-				959618D31D19E01D002AA970 /* circle.jpg */,
-				959618C81D19C47D002AA970 /* man2.jpg */,
-				959618C91D19C47D002AA970 /* man3.jpg */,
-				959618CA1D19C47D002AA970 /* woman.jpg */,
-				959618C31D19BAC9002AA970 /* MedicAppIcon-2.png */,
+				959618E91D1B3E24002AA970 /* Asia-man.jpg */,
+				959618EA1D1B3E24002AA970 /* circle.jpg */,
+				959618EB1D1B3E24002AA970 /* India-woman.jpg */,
+				959618F91D1B3E3C002AA970 /* woman.jpg */,
+				959618F51D1B3E36002AA970 /* man3.jpg */,
+				959618F61D1B3E36002AA970 /* MedicAppIcon-2.png */,
+				959618F31D1B3E2D002AA970 /* blankProfile.png */,
+				959618EC1D1B3E24002AA970 /* man.jpg */,
+				959618ED1D1B3E24002AA970 /* man2.jpg */,
 				955F696C1D14C2590026E633 /* MedicMessenger */,
 				955F696B1D14C2580026E633 /* Products */,
 			);
@@ -179,18 +179,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				959618CB1D19C47D002AA970 /* Asia-man.jpg in Resources */,
 				955F697B1D14C2590026E633 /* LaunchScreen.storyboard in Resources */,
-				959618CC1D19C47D002AA970 /* India-woman.jpg in Resources */,
 				955F69781D14C2590026E633 /* Assets.xcassets in Resources */,
-				959618CF1D19C47D002AA970 /* man3.jpg in Resources */,
-				959618D21D19C493002AA970 /* blankProfile.png in Resources */,
+				959618F81D1B3E36002AA970 /* MedicAppIcon-2.png in Resources */,
+				959618F01D1B3E24002AA970 /* India-woman.jpg in Resources */,
+				959618EF1D1B3E24002AA970 /* circle.jpg in Resources */,
+				959618EE1D1B3E24002AA970 /* Asia-man.jpg in Resources */,
+				959618F21D1B3E24002AA970 /* man2.jpg in Resources */,
+				959618F71D1B3E36002AA970 /* man3.jpg in Resources */,
+				959618F41D1B3E2D002AA970 /* blankProfile.png in Resources */,
 				955F69731D14C2590026E633 /* Main.storyboard in Resources */,
-				959618D41D19E01D002AA970 /* circle.jpg in Resources */,
-				959618D01D19C47D002AA970 /* woman.jpg in Resources */,
-				959618CE1D19C47D002AA970 /* man2.jpg in Resources */,
-				959618C41D19BAC9002AA970 /* MedicAppIcon-2.png in Resources */,
-				959618CD1D19C47D002AA970 /* man.jpg in Resources */,
+				959618FA1D1B3E3C002AA970 /* woman.jpg in Resources */,
+				959618F11D1B3E24002AA970 /* man.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
